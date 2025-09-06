@@ -29,7 +29,6 @@ latest_posts:
 
 
 <p style="text-align: justify; padding-right:50px;">
-  
 
 I am a fourth-year PhD candidate in Empirical Legal Studies and Data Protection Law at <a href="https://www.eur.nl/en/esl">Erasmus School of Law</a>. My research explores the extent to which EU data protection law is able to curb the platform power of mobile platforms, with a special focus on the role of app stores and mobile operating systems. In my research, I am combining both doctrinal (legal) methods with empirical insights - to see an example, check out my <a href="https://policyreview.info/articles/analysis/death-privacy-policies-how-app-stores-shape-gdpr-compliance-apps">latest publication</a>. 
   <br> <br>
