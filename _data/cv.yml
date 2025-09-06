@@ -1,0 +1,102 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Julia Krämer
+    - name: Contact
+      value: j.k.kramer@law.eur.nl
+    - name: Languages
+      value: English, German, Dutch
+    - name: Research Interests
+      value: Empirical Legal Studies, Data Protection Law, Platform Regulation, Mobile Tracking
+
+- title: Education
+  type: time_table
+  contents:
+    - title: LL.M. in Competition Law and Regulation
+      institution: University of Mannheim, Mannheim, Germany
+      year: 2022
+    - title: B.A. in European Studies, majoring EU Law
+      institution: University of Amsterdam, Amsterdam, Netherlands
+      year: 2019
+    
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: PhD Researcher 
+      institution: <a href="https://www.eur.nl/en/esl">Erasmus School of Law</a>, Erasmus University Rotterdam
+      year: 03.2022 - 03.2026
+      description:
+        - In my dissertation, I explore the role of mobile platforms (mobile operating systems and mobile app stores) in setting privacy and data protection standards for mobile apps. My PhD project is part of the Empirical Legal Studies Centre and the initiative of Rebalancing Public & Private Interests.
+
+    - title: Visiting Research Fellow
+      institution: <a href="https://www.weizenbaum-institut.de/">Weizenbaum Institut</a>, Berlin, Germany.
+      year: 01.2025 - 02. 2025
+      description:
+        - Part of the Research Group Norm Setting and Decision Processes.
+
+    - title: Research Assistant
+      institution: <a href="https://www.zew.de/en/">ZEW - Leibniz Centre for European Economic Research</a>
+      year: 02.2020 - 02.2022
+      description:
+      - As a research assistant in the Competition and Innovation group, my tasks included web scraping and data cleaning with Python, the empirical analysis of privacy policies and their compliance with legal requirements of the General Data Protection Regulation with R.
+
+    - title: Intern
+      institution: <a href="https://www.monopolkommission.de/en/">Monopolies Commission</a>, Bonn, Germany
+      year: 04.2021 - 06.2021
+      description:
+      - During my internship, I was focusing on platform regulation and prepared several memoranda on the objectives, systematics and conduct obligations of the EU Commission's proposal on the Digital Markets Act (DMA).
+
+    - title: Intern
+      institution: <a href="https://www.bundeskartellamt.de/EN/Home/home_node.html">Bundeskartellamt</a>, Bonn, Germany
+      year: 02.2021 - 03.2021
+      description:
+      - As an intern at the Digital Economy Department I was analysing the economic and legal implications of the Commission proposals of the Digital Markets Act (DMA) and the Digital Services Act (DSA).
+
+
+- title: Selected Publications
+  type: nested_list
+  contents:
+    - title: "Between Privacy and Profit: The Dual Role of PETs in Mobile Tracking"
+      items:
+        - '<i>European Data Protection Law Review</i>, 11(2). <a href="https://edpl.lexxion.eu/article/EDPL/2025/2/7">https://doi.org/10.21552/edpl/2025/2/7</a>, 2025.'
+    - title: "The death of privacy policies: How app stores shape GDPR compliance of apps"
+      items:
+        -  '<i>Internet Policy Review</i>, 13(2). <a href="https://policyreview.info/articles/analysis/death-privacy-policies-how-app-stores-shape-gdpr-compliance-apps">https://doi.org/10.14763/2024.2.1757</a>, 2024.'
+
+
+- title: Organisation
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - 'Part of the Organisation Team of the Workshop <a href="https://www.eur.nl/en/esl/events/security-digital-age-2025-06-03">Security in the Digital Age </a> '
+    - year: 2024
+      items: 
+        - 'Member of the Program commitee of the <a href="https://www.zertifizierte-ki.de/symposium-on-scaling-ai-assessments/">Symposium on Scaling AI Assessments</a>, in cooperation with Fraunhofer Institute'
+    - year: 2023
+      items: 
+        - 'Organisation of the <a href="https://www.eur.nl/en/esl/media/2023-06-agenda-lair-05062023">Law, AI and Regulation conference</a>, together with Kostina Prifti and Esra Demir'
+
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - Finalist EDPL Young Scholars Award
+        - Visiting Fellowship at Weizenbaum Institut
+  
+- title: Outreach
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - "Blog post in the <i>Digital Constitutionalist</i> <a href='https://digi-con.org/regulating-the-regulators-can-app-stores-strengthen-privacy-in-the-mobile-ecosystem/'>Regulating the Regulators: Can App Stores Strengthen Privacy in the Mobile Ecosystem?</a>"
+    - year: 2023
+      items: 
+      - Guest in Judith Blijden's Podcast <a href="https://thedigitalperiod.com/">The Digital Period</a> in which I talk about how period apps track and use data. <a href="https://open.spotify.com/episode/2G99UMX240gDTVUS5bVZRc?si=d739930ddd9c43b6&nd=1&dlsi=22993ab910f94d40">Click here to listen to the episode!</a> 
+      
+
