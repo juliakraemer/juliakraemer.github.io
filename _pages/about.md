@@ -6,7 +6,7 @@ subtitle: <b>PhD Candidate <a href='https://www.eur.nl/en'>Erasmus University Ro
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPG
   image_circular: false # crops the image to make it circular
   more_info: 
     <p></p>
