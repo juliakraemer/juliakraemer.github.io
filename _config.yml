@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: juliakraemer # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+permalink: 
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -100,7 +100,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
+  repo: juliakraemer/juliakraemer.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
