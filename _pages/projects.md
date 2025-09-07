@@ -12,6 +12,8 @@ horizontal: false
 
 <ul>
 <b> 2025 </b> <br>
+
+   <li>11 September 2025: <a href="https://www.gikii.org/gikii-2025-amsterdam-programme/">Gikii 2025 Conference</a>, "The App Store Nether: Mining the Dark Side of the Mobile Ecosystem", Amsterdam.</li>
    <li>20 June 2025: <a href="https://esels.eu/esels-conference-toulouse-19-20-june-2025/">ESELS 2025 Conference</a>, "Running on Data: The App Store Governance of mHealth apps", Toulouse.</li>
   <li>7 March 2025: <a href="https://www.eur.nl/en/media/2025-02-programme-website">SSH Breed Conference</a>, "Running on Data: The App Store Governance of mHealth apps", Rotterdam.</li>
   <li>11 February 2025: <a href="https://www.weizenbaum-institut.de/institut/arbeit-und-karriere/fellowships/">Fellow Talk at Weizenbaum Institut</a>, "Running on Data: The App Store Governance of mHealth apps", Berlin.</li><br>

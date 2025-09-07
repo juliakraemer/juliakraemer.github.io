@@ -25,7 +25,7 @@
   type: time_table
   contents:
     - title: PhD Researcher 
-      institution: <a href="https://www.eur.nl/en/esl">Erasmus School of Law</a>, Erasmus University Rotterdam
+      institution: <a href="https://www.eur.nl/en/esl">Erasmus School of Law</a>, Erasmus University Rotterdam, Rotterdam, The Netherlands
       year: 03.2022 - 03.2026
       description:
         - In my dissertation, I explore the role of mobile platforms (mobile operating systems and mobile app stores) in setting privacy and data protection standards for mobile apps. My PhD project is part of the Empirical Legal Studies Centre and the initiative of Rebalancing Public & Private Interests.
@@ -37,7 +37,7 @@
         - Part of the Research Group Norm Setting and Decision Processes.
 
     - title: Research Assistant
-      institution: <a href="https://www.zew.de/en/">ZEW - Leibniz Centre for European Economic Research</a>, Mannheim, Germany.
+      institution: <a href="https://www.zew.de/en/">ZEW - Leibniz Centre for European Economic Research</a>, Mannheim, Germany
       year: 02.2020 - 02.2022
       description:
       - As a research assistant in the Competition and Innovation group, my tasks included web scraping and data cleaning with Python, the empirical analysis of privacy policies and their compliance with legal requirements of the General Data Protection Regulation with R.
