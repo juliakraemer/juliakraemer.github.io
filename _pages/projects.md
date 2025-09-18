@@ -20,6 +20,7 @@ horizontal: false
   <b> 2024 </b> <br>
   <li>9 December 2024: <a href="https://www.eur.nl/en/eshcc/events/workshop-epistemology-ai-2024-12-09">Workshop: The Epistemology of AI</a>, "The EU approach to regulating misinformation in LLMs", Rotterdam.</li>
   <li>28 November 2024: <a href="https://www.sectorplandls.nl/wordpress/digital-legal-talks-2023/">Digital Legal Talks 2024</a>, "Running on Data: The App Store Governance of mHealth apps", Utrecht.</li>
+  <li>2 October 2024: <a href="https://www.zertifizierte-ki.de/symposium-on-scaling-ai-assessments">Symposium on Scaling AI Assessments</a>, Moderator of the panel <i>Governance and Regulation</i>, Cologne.</li>
   <li>10 September 2024: <a href="https://www.weizenbaum-institut.de/">Weizenbaum Institute Workshop Digital Decade: How the EU shapes digitalisation research</a>, "Data Protection Law in Action: Introducing the GDPR", Berlin.</li>
   <li>21 June 2024: <a href="https://www.universiteitleiden.nl/en/events/2024/06/elaw-symposium-the-international-conference-on-law--technology-on-june-20-21">eLaw Conference</a>, "Balancing Privacy and Platform Power in the Mobile Ecosystem", Leiden. </li>
   <li>22 May 2024: <a href="https://www.cpdpconferences.org/panels/wednesday-22-may-2024">CPDP.ai 2024</a>, " Balancing Privacy and Platform Power in the Mobile Ecosystem", Brussels. </li>
