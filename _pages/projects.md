@@ -12,6 +12,9 @@ horizontal: false
 
 <ul>
 <b> 2025 </b> <br>
+  <li>2 October 2025: <a href="https://lawtomation.ie.edu/news-events/2025/09/fourth-edition-conference">Lawtomation Conference</a>, "Running on Data: The App Store Governance of mHealth apps", Madrid.</li>
+
+   <li>2 October 2025: <a href="https://lawtomation.ie.edu/news-events/2025/09/fourth-edition-conference">Lawtomation Conference</a>, part of the panel "Perspectives on interoperability in EU law", Madrid.</li>
 
    <li>11 September 2025: <a href="https://www.gikii.org/gikii-2025-amsterdam-programme/">Gikii 2025 Conference</a>, "The App Store Nether: Mining the Dark Side of the Mobile Ecosystem", Amsterdam.</li>
    <li>20 June 2025: <a href="https://esels.eu/esels-conference-toulouse-19-20-june-2025/">ESELS 2025 Conference</a>, "Running on Data: The App Store Governance of mHealth apps", Toulouse.</li>
