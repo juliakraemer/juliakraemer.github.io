@@ -12,6 +12,8 @@ horizontal: false
 
 <ul>
 <b> 2025 </b> <br>
+<li>24 October 2025: <a href="https://www.leidenlawconference.nl/legal-courses/2025/privacy-law-scholars-conference-europe-2025/">PLSC Europe Conference</a>, "Privacy Preference and Cookie “Choice”: Is Design more Important than What You Want?", Leiden.</li>
+
   <li>2 October 2025: <a href="https://lawtomation.ie.edu/news-events/2025/09/fourth-edition-conference">Lawtomation Conference</a>, "Running on Data: The App Store Governance of mHealth apps", Madrid.</li>
 
    <li>2 October 2025: <a href="https://lawtomation.ie.edu/news-events/2025/09/fourth-edition-conference">Lawtomation Conference</a>, part of the panel "Perspectives on interoperability in EU law", Madrid.</li>
