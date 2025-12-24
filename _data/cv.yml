@@ -58,6 +58,9 @@
 - title: Selected Publications
   type: nested_list
   contents:
+    - title: "Balancing privacy and platform power in the mobile ecosystem: The case of Apple’s App Tracking Transparency"
+      items:
+        - '<i>Computer Law & Security Review</i>, 60, 106255. <a href="https://doi.org/10.1016/j.clsr.2025.106255">https://doi.org/10.1016/j.clsr.2025.106255</a>, 2026.'
     - title: "Between Privacy and Profit: The Dual Role of PETs in Mobile Tracking"
       items:
         - '<i>European Data Protection Law Review</i>, 11(2). <a href="https://edpl.lexxion.eu/article/EDPL/2025/2/7">https://doi.org/10.21552/edpl/2025/2/7</a>, 2025.'
