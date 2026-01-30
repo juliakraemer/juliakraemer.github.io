@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-dissertation",
+          title: "dissertation",
+          description: "Data Protection by Platform : The Role of Private Actors in Shaping GDPR Compliance in the Mobile Ecosystem",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/dissertation/";
+          },
         },{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
