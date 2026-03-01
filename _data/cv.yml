@@ -6,13 +6,16 @@
     - name: Contact
       value: j.k.kramer@law.eur.nl
     - name: Languages
-      value: English, German, Dutch
+      value: German (mother tongue) <br> English, Dutch (C1) <br> French, Spanish (B1)
     - name: Research Interests
       value: Empirical Legal Studies, Data Protection Law, Platform Regulation, Mobile Tracking
 
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Law
+      institution: Erasmus University Rotterdam, Rotterdam, Netherlands
+      year: 2026
     - title: LL.M. in Competition Law and Regulation
       institution: University of Mannheim, Mannheim, Germany
       year: 2022
@@ -24,12 +27,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: <a href="https://www.eur.nl/en/esl">Erasmus School of Law</a>, Erasmus University Rotterdam, Rotterdam, The Netherlands
+      year: 03.2026 -
+      description:
+        - Part of the Law and Business Department.
+
     - title: PhD Researcher 
       institution: <a href="https://www.eur.nl/en/esl">Erasmus School of Law</a>, Erasmus University Rotterdam, Rotterdam, The Netherlands
-      year: 03.2022 - 03.2026
+      year: 03.2022 - 02.2026
       description:
-        - In my dissertation, I explore the role of mobile platforms (mobile operating systems and mobile app stores) in setting privacy and data protection standards for mobile apps. My PhD project is part of the Empirical Legal Studies Centre and the initiative of Rebalancing Public & Private Interests.
-
+        - In my dissertation, I explored the role of mobile platforms (mobile operating systems and mobile app stores) in setting privacy and data protection standards for mobile apps. 
     - title: Visiting Research Fellow
       institution: <a href="https://www.weizenbaum-institut.de/">Weizenbaum Institut</a>, Berlin, Germany.
       year: 01.2025 - 02. 2025

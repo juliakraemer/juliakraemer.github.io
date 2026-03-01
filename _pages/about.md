@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>PhD Candidate <a href='https://www.eur.nl/en'>Erasmus University Rotterdam</a></b>
+subtitle: <b>assistant prof at <a href='https://www.eur.nl/en'>Erasmus University Rotterdam</a></b>
 
 profile:
   align: right
@@ -29,8 +29,9 @@ latest_posts:
 
 
 <p style="text-align: justify;">
-I am a fourth-year PhD candidate in Empirical Legal Studies and Data Protection Law at <a href="https://www.eur.nl/en/esl">Erasmus School of Law</a>. My research explores the extent to which EU data protection law is able to curb the platform power of mobile platforms, with a special focus on the role of app stores and mobile operating systems. In my research, I am combining both doctrinal (legal) methods with empirical insights - to see an example, check out my <a href="\dissertation">dissertation</a>. 
+I am an assistant professor in Data Protection Law and Empirical Legal Studies at <a href="https://www.eur.nl/en/esl">Erasmus School of Law</a>. I hold a PhD from Erasmus University Rotterdam. I previously worked at the <a href="https://www.zew.de/en">ZEW</a> (Leibniz Centre for European Economic Research). In 2025, I was a Visiting Research Fellow at the <a href="https://www.weizenbaum-institut.de/">Weizenbaum Institut</a>.
   <br> <br>
-  In January and February 2025 I was a Visiting Research Fellow at  <a href="https://www.weizenbaum-institut.de/">Weizenbaum Institut</a>. Before starting my PhD, I gained experience in platform regulation through internships at the <a href="https://www.monopolkommission.de/en/">Monopolies Commission</a> and the <a href="https://www.bundeskartellamt.de/EN/Home/home_node.html">Bundeskartellamt</a> (German Competition Authority). Additionally, I developed skills in empirical methods and programming during my time as a research assistant at the <a href="https://www.zew.de/en">ZEW</a> (Leibniz Centre for European Economic Research).        
+ In my research, I am combining both doctrinal (legal) methods with empirical insights - to see an example, check out my <a href="\dissertation">dissertation</a>. I am particularly interested in mobile tracking and advertising technologies, platform governance, and the enforcement of data protection law in digital markets.  <br> <br>
+You can find my university homepage <a href="https://pure.eur.nl/en/persons/julia-kr%C3%A4mer/">here</a>.
 
 </p>
