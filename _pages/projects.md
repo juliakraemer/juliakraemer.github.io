@@ -11,6 +11,7 @@ horizontal: false
 
 <ul>
 <b> 2026 </b> <br>
+<li>17 March 2026: <a href="https://algosoc.org/events/workshop-cloud-capitalism">Algosoc Workshop: Cloud Capitalism</a>, Discussant, Amsterdam.</li>
 <li>26 February 2026: <a href="https://plamadiso.weizenbaum-institut.de/">PLAMADISO Talk</a>, "Balancing privacy and platformpower in the mobile ecosystem: The case of Apple’s App Tracking Transparency", Online. See the recording <a href="https://www.youtube.com/watch?v=5QfVQRsBCR0&list=PLW2I9deNht9zwTYFJdmYkuwPWFYYq2Nrr">here</a>.</li>
 <li>19 February 2026: <a href="https://www.tudelft.nl/en/events/2026/delft-ai/delft-ai-lunch-ai-regulations-and-how-to-work-within-them">Delft AI Lunch</a>, Part of the Panel "AI Regulations (and how to work within them)?", TU Delft.</li>
 
