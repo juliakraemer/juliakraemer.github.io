@@ -11,7 +11,10 @@ horizontal: false
 
 <ul>
 <b> 2026 </b> <br>
-<li>19 May 2026: <a href="https://www.cpdpconferences.org/panels/academic-session-i-2">CPDP 2026</a>, "Privacy Preference and Cookie “Choice”: Is Design more Important than What You Want?", Brussels.</li>
+
+<li>8 July 2026: <a href="https://www.rewi.hu-berlin.de/de/lf/ls/zch/news/masterclass-data-protection-by-platform-the-role-of-private-actors-in-shaping-gdpr-compliance-in-the-mobile-ecosystem">"Masterclass: Data protection by platform: The role of private actors in shaping GDPR compliance in the mobile ecosystem"HU Berlin</a>, HU Berlin.</li>
+
+<li>19 May 2026: <a href="https://www.cpdpconferences.org/panels/academic-session-i-2">CPDP 2026</a>, "Privacy Preference and Cookie “Choice”: Is Design more Important than What You Want?", Brussels.  <a href="https://www.youtube.com/watch?v=wbGTDYTEZ-Q">Available online</a>. </li>
 <li>17 March 2026: <a href="https://algosoc.org/events/workshop-cloud-capitalism">Algosoc Workshop: Cloud Capitalism</a>, Discussant, Amsterdam.</li>
 <li>26 February 2026: <a href="https://plamadiso.weizenbaum-institut.de/">PLAMADISO Talk</a>, "Balancing privacy and platformpower in the mobile ecosystem: The case of Apple’s App Tracking Transparency", Online. See the recording <a href="https://www.youtube.com/watch?v=5QfVQRsBCR0&list=PLW2I9deNht9zwTYFJdmYkuwPWFYYq2Nrr">here</a>.</li>
 <li>19 February 2026: <a href="https://www.tudelft.nl/en/events/2026/delft-ai/delft-ai-lunch-ai-regulations-and-how-to-work-within-them">Delft AI Lunch</a>, Part of the Panel "AI Regulations (and how to work within them)?", TU Delft.</li>
