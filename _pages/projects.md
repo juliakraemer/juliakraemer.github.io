@@ -12,7 +12,7 @@ horizontal: false
 <ul>
 <b> 2026 </b> <br>
 
-<li>8 July 2026: <a href="https://www.rewi.hu-berlin.de/de/lf/ls/zch/news/masterclass-data-protection-by-platform-the-role-of-private-actors-in-shaping-gdpr-compliance-in-the-mobile-ecosystem">"Masterclass: Data protection by platform: The role of private actors in shaping GDPR compliance in the mobile ecosystem"HU Berlin</a>, HU Berlin.</li>
+<li>8 July 2026: <a href="https://www.rewi.hu-berlin.de/de/lf/ls/zch/news/masterclass-data-protection-by-platform-the-role-of-private-actors-in-shaping-gdpr-compliance-in-the-mobile-ecosystem">"Masterclass: Data protection by platform: The role of private actors in shaping GDPR compliance in the mobile ecosystem"</a>, HU Berlin.</li>
 
 <li>19 May 2026: <a href="https://www.cpdpconferences.org/panels/academic-session-i-2">CPDP 2026</a>, "Privacy Preference and Cookie “Choice”: Is Design more Important than What You Want?", Brussels.  <a href="https://www.youtube.com/watch?v=wbGTDYTEZ-Q">Available online</a>. </li>
 <li>17 March 2026: <a href="https://algosoc.org/events/workshop-cloud-capitalism">Algosoc Workshop: Cloud Capitalism</a>, Discussant, Amsterdam.</li>
