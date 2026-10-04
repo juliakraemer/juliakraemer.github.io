@@ -12,9 +12,11 @@ horizontal: false
 <ul>
 <b> 2026 </b> <br>
 
-<li>3 September 2026: <a href="https://congresscreator.org/session-details-page?sid=66628&p1=65222&p2=65506&p3=65364&p4=&p5=">Part of the panel "The Interoperability Paradox: Technical Realities, Regulatory Promises and EU Digital Sovereignty"</a>, ELU-S 2026, Lisbon.</li>
+<li>25 September 2026: <a href="https://lawtomation.ie.edu/news-events/2026/04/redesigning-law-in-the-ai-age-the-fifth-edition-of-ie-lawtomation-days-is-here/">Lawtomation Days</a>, "Privacy Preference and Cookie “Choice”: Is Design more Important than What You Want?", Madrid.</li>
 
-<li>28 August 2026: <a href="https://congresscreator.org/session-details-page?sid=66628&p1=65222&p2=65506&p3=65364&p4=&p5=">"Preference Revelation under Design Frictions: Evidence from Cookie Consent Banners"</a>, AERIE Conference 2026, Mannheim.</li>
+<li>3 September 2026: <a href="https://congresscreator.org/session-details-page?sid=66628&p1=65222&p2=65506&p3=65364&p4=&p5=">ELU-S 2026</a>, Part of the panel "The Interoperability Paradox: Technical Realities, Regulatory Promises and EU Digital Sovereignty", Lisbon.</li>
+
+<li>28 August 2026: <a href="https://congresscreator.org/session-details-page?sid=66628&p1=65222&p2=65506&p3=65364&p4=&p5=">AERIE Conference 2026</a>, "Preference Revelation under Design Frictions: Evidence from Cookie Consent Banners",  Mannheim.</li>
 
 <li>8 July 2026: <a href="https://www.rewi.hu-berlin.de/de/lf/ls/zch/news/masterclass-data-protection-by-platform-the-role-of-private-actors-in-shaping-gdpr-compliance-in-the-mobile-ecosystem">"Masterclass: Data protection by platform: The role of private actors in shaping GDPR compliance in the mobile ecosystem"</a>, HU Berlin.</li>
 
